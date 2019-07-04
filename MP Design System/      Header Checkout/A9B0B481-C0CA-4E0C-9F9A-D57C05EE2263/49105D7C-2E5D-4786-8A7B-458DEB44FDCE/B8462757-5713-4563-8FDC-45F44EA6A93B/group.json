@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B8462757-5713-4563-8FDC-45F44EA6A93B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "698851B3-9506-4FA8-80C4-792761937674",
+    "height": 35,
+    "width": 35,
+    "x": 1305,
+    "y": 18
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "EBAAD104-E2B4-4080-BA7E-0CD90BB386A7"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "970AB34C-3F65-41F5-9D78-577851BB8318"
+    },
+    {
+      "class": "shapePath",
+      "id": "5C7FF71B-EC6A-482A-9978-6B09F33901AA"
+    },
+    {
+      "class": "shapePath",
+      "id": "E7ECC45C-ABAC-4A49-866B-BFF98A40D91D"
+    }
+  ],
+  "name": "Button Cart",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0B464FF0-8341-4FFB-8E19-C878E5F6E1D9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

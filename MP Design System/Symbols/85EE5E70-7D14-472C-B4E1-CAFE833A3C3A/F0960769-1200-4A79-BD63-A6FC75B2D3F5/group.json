@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F0960769-1200-4A79-BD63-A6FC75B2D3F5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A93189FB-3F2C-4A15-A989-444E2297A2D0",
+    "height": 307,
+    "width": 184,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "F005EA82-FF61-4C5C-9281-E4E865BE34E0"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "40C5DCD0-3232-4EDC-917F-74A82EA201DB"
+    },
+    {
+      "class": "group",
+      "id": "1D34A971-63E5-4D4D-AB88-88A6E74F6ADE"
+    },
+    {
+      "class": "text",
+      "id": "D464F08A-8819-432C-B78F-171B6B4101A3"
+    },
+    {
+      "class": "group",
+      "id": "75CA1743-91C7-447B-A2C6-C753CA538673"
+    }
+  ],
+  "name": "Tiles / Product / Mini",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A1E72383-B205-444D-BB46-9BD7BC7AD04D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

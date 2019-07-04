@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E5F3AFE9-8E7F-4FD4-9DC1-DC56223D7FEC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2462FB4C-D963-4602-A399-3C8620CBEA66",
+    "height": 55,
+    "width": 55,
+    "x": 60,
+    "y": 1428
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "07FAE756-66CA-4432-9310-7D5462C580C8"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1FBC1DEA-4BF6-4E7D-A289-29B293D32AB6"
+    },
+    {
+      "class": "bitmap",
+      "id": "DC433C4B-30ED-4921-9857-256C8915F0D2"
+    }
+  ],
+  "name": "Group 30",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "1BE2F81B-0124-408F-91A1-3286F0F41936",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.788971887941535,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "E53A0B3A-F1FC-4974-A982-D60DBD0D972C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

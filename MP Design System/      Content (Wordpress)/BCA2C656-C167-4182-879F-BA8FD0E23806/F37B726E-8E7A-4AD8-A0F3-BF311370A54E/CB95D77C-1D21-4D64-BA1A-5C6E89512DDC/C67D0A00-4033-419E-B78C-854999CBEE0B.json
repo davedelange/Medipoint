@@ -1,0 +1,84 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "C67D0A00-4033-419E-B78C-854999CBEE0B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "7AB449D0-F94F-4A52-AFB4-D8FCE23A28D5",
+    "height": 312.6515485564304,
+    "width": 469.4208701134931,
+    "x": -44.53882903981369,
+    "y": -0.1322888638921711
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/3455b4f851e13212c2ea3c0b9b6b1cd70b060118.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "SF_MO_ROLL_MAN_THUIS_BED_01",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "7674B3AC-27AB-4785-A612-287D82D6DCB0",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 12.29508196721312,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "D2BACE94-9E51-4960-AB2D-FF5E4EB92E69",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 312.6516,
+            "enabled": 1,
+            "modelID": "constraint_da3e2d49-bbef-4155-92d2-ca2ea27a7539",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 469.4209
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_10fb3a23-987b-4630-8ef2-657ad526560e",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

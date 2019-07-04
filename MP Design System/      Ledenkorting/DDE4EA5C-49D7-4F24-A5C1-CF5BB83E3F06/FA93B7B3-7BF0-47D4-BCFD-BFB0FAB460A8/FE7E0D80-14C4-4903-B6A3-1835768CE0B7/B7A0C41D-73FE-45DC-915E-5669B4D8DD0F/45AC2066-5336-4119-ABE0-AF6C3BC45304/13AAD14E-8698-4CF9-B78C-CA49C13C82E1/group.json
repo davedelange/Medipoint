@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "13AAD14E-8698-4CF9-B78C-CA49C13C82E1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3987ED24-DAF2-4AA3-ABF5-DE22CCDAC0B2",
+    "height": 22,
+    "width": 25,
+    "x": 0,
+    "y": 5
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "404F23D6-2DCC-41DE-AA82-28323C7EE759"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FA08CC80-0744-4A37-8EAD-774A026F18F8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A660E9D0-BE4D-4A97-B5C5-E34EF8A15623"
+    }
+  ],
+  "name": "003-shop",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "DBE5C04D-4408-4FB6-9432-C2173D44A668",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.5102040816326531,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "09347837-F806-463B-ACDB-F1B6DF1C45A1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

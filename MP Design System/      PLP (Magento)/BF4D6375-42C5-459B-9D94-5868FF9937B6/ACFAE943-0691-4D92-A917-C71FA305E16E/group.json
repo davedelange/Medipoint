@@ -1,0 +1,94 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "ACFAE943-0691-4D92-A917-C71FA305E16E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5FC4B815-BCD8-48E0-A9D0-54AE5DE9EFD7",
+    "height": 26,
+    "width": 25,
+    "x": 148,
+    "y": 954
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "F721B24D-0128-4F2B-B0DB-40FA54E3AFF5"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "11D5B835-E9AB-4E14-A45B-A9B2AE7D134E"
+    },
+    {
+      "class": "oval",
+      "id": "716B36AA-DBE1-4577-9ACC-223DFE811979"
+    },
+    {
+      "class": "oval",
+      "id": "BAE068F4-E3A4-43CF-BC28-FF66145738EC"
+    },
+    {
+      "class": "oval",
+      "id": "78B7C057-BC62-4828-9EDC-6420EEDE32F3"
+    },
+    {
+      "class": "oval",
+      "id": "D2DD157E-5B30-4D81-ADE8-258E403BF588"
+    },
+    {
+      "class": "oval",
+      "id": "409A1888-A2E6-4D4E-B7D5-80FA758E0391"
+    },
+    {
+      "class": "shapePath",
+      "id": "8C6F1C63-0432-4586-B071-C7334D06DA1C"
+    },
+    {
+      "class": "oval",
+      "id": "3E7878A3-4E01-49A3-855A-945E04A3B603"
+    }
+  ],
+  "name": "Group 36",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "B50A4B04-CE8B-4C4A-86ED-437AF83AC0AA",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "4E25E7F9-4C4F-43FD-B954-8031302B2282",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

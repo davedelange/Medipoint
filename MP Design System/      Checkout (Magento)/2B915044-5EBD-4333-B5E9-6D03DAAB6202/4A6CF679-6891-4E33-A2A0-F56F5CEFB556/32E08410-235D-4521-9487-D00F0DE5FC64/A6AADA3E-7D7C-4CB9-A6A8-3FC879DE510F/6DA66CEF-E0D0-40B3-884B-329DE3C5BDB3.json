@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6DA66CEF-E0D0-40B3-884B-329DE3C5BDB3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5331BC23-2011-47B8-B10E-75728A7131C0",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A543FDA3-DF34-4C8B-AC29-77396FE85A4A",
+    "height": 50,
+    "width": 184,
+    "x": 524,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Primary",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "64F1C132-F5F1-443B-99C9-AAAC6DFED00A",
+      "overrideName": "14630819-F6C4-4153-80A0-CA9AC10F3C4A_stringValue",
+      "value": "Naar betaalwijze"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2A08EA4A-F743-4BA2-A7C9-4C8F977380BD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "23BCC158-DA70-4E7F-8CD0-178028FF734F",
+  "verticalSpacing": 0
+}

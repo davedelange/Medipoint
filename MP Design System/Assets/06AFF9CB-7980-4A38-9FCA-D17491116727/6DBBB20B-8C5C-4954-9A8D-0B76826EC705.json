@@ -1,0 +1,84 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "6DBBB20B-8C5C-4954-9A8D-0B76826EC705",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "BC363C0B-C855-4954-B196-C8C2514604A8",
+    "height": 50,
+    "width": 50,
+    "x": 49,
+    "y": 399
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/c78251f64d228560a822cd1685c29fd069eb79d1.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "logo-medipoint",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "F2B28715-F98D-43DF-83F2-DE0BF5A928A4",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.498751040799334,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "30FD0A48-A17D-44BC-8E43-DDF559D1DB1D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 50,
+            "enabled": 1,
+            "modelID": "constraint_f1120390-b279-43ab-8e51-a4f3e66fe826",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 50
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_3b67cde0-513b-4256-b215-b9753e7a21d3",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

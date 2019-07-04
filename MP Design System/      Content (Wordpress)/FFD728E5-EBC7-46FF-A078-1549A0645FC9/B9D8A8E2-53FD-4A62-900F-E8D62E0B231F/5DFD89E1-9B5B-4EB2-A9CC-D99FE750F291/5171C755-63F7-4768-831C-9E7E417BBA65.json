@@ -1,0 +1,84 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "5171C755-63F7-4768-831C-9E7E417BBA65",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "A934434A-5F05-4081-B7FE-2F4290020E13",
+    "height": 94,
+    "width": 92,
+    "x": 30,
+    "y": 64
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/93994cf24f29f3a2b1bdc9ad853a042799bac446.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "rolstoelrollator",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "294E6271-DC55-4969-A488-FBAB1CDCF512",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.672649365348859,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "DD7C2F34-C71A-4015-9305-73C458A921F9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 94,
+            "enabled": 1,
+            "modelID": "constraint_0ff12534-7189-4426-8f0b-2ae03dcaab9f",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 92
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_5460139b-1cf8-4b93-852b-03515b8b775e",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

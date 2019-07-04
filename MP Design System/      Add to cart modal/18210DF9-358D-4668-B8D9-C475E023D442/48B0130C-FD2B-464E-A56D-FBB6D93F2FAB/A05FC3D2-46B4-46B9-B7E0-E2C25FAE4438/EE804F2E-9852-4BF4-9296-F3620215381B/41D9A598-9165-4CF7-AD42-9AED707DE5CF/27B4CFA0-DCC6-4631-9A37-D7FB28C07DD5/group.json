@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "27B4CFA0-DCC6-4631-9A37-D7FB28C07DD5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FAFD9BB2-853C-446D-944F-EFAD78E84D89",
+    "height": 22,
+    "width": 32,
+    "x": 0,
+    "y": 6
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "271702E6-18AC-4036-AA6D-154EF4BC8E59"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "47487C6E-5151-4240-9ABD-D18BEB961743"
+    }
+  ],
+  "name": "002-delivery-truck",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "C337A134-9F25-4033-B5A2-E4EC1F4A8A0F",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.6504065040650405,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "6DD712FB-7BE0-4E7B-A3A8-F1F1F12D6952",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

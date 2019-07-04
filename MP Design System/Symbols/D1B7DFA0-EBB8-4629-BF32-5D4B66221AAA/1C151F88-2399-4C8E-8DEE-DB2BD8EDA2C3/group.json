@@ -1,0 +1,104 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1C151F88-2399-4C8E-8DEE-DB2BD8EDA2C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CCF0B242-8BF4-4CBD-89F7-0F6C22B2CD70",
+    "height": 571,
+    "width": 401,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "DE9586AC-367C-4DC6-8EC0-AA5184884BB9"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "FB8ADCDD-633C-41A5-9A73-D249E310FBF6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "33765CAF-984C-41D1-83C4-FDD02E731461"
+    },
+    {
+      "class": "group",
+      "id": "997FA878-0E5E-4656-823D-10365407BC8F"
+    },
+    {
+      "class": "text",
+      "id": "C464DDD6-49F8-4AA2-AE4B-A0008D8CDC85"
+    },
+    {
+      "class": "text",
+      "id": "06E24A30-2C0E-481F-80F8-89057BDBE8E5"
+    },
+    {
+      "class": "text",
+      "id": "F2E96BAA-FA28-40B2-A660-E7CB458D59AB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FC13B999-A7E9-4D71-83AB-24919486EAE4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "09CD868E-68F3-4C50-9FE4-6FA2D3714C9B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "19E6B474-A79E-47A4-ACAD-B931A6414B08"
+    },
+    {
+      "class": "text",
+      "id": "F64856F1-387F-47FC-8817-74054112D6E3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7331E375-F22C-4933-9BF8-1D2553C0E425"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "812330DF-21D2-4BED-B87C-883A6EAFEB02"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0D4BBF2F-B86E-48D3-9811-2CC541E021A5"
+    }
+  ],
+  "name": "Tile",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CA1C37FE-1913-4DF0-97FE-155A05A9864C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "969E5BED-89E7-4EF0-85BD-ED507C25275E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "75B4D72E-FB96-4CB3-956D-366BFC683FEF",
+    "height": 52,
+    "width": 50,
+    "x": 434,
+    "y": 641
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "C5B81AF6-B0E1-4561-8F50-13830D4EEFD2"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "ADBC7563-57F9-4A9A-973B-EB8DF1DA941B"
+    },
+    {
+      "class": "oval",
+      "id": "07564873-124C-4970-824C-45DC61310290"
+    },
+    {
+      "class": "oval",
+      "id": "067037BD-2E5D-46E2-9FA0-12E6742DA0FC"
+    },
+    {
+      "class": "oval",
+      "id": "A65EE346-A358-4A6A-8AFD-7E0A23933DBD"
+    },
+    {
+      "class": "oval",
+      "id": "E47C06B5-945A-47D2-8949-230C09E1A546"
+    },
+    {
+      "class": "oval",
+      "id": "A8ECA22B-5A37-49EE-9CDF-B16349361B1E"
+    },
+    {
+      "class": "shapePath",
+      "id": "81777099-89F0-4299-88B4-A58377682CF0"
+    },
+    {
+      "class": "oval",
+      "id": "7811E029-6676-4146-B87E-3BBD16A9D866"
+    }
+  ],
+  "name": "loading",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "D9B502D0-4433-40F1-A14C-9C4CBC6E54E6",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 19.50000107288361,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "20B52628-5E4C-4F4B-85C6-0DA407530EA2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

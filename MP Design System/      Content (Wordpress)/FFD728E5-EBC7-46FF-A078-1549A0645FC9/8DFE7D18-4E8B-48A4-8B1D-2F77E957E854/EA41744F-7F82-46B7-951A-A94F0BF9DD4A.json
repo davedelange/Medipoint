@@ -1,0 +1,84 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "EA41744F-7F82-46B7-951A-A94F0BF9DD4A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "28ADD250-39DD-4B81-BC0E-7204C5487FB1",
+    "height": 56,
+    "width": 40,
+    "x": 162,
+    "y": 111
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/8af23318e36548662343068a8ce8b0214c0a9cc5.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "rollator-gemino-30-parkinson",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "1EBE617A-22B2-4086-8A91-531AB1B7B4C3",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.562893983909144,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "3A333045-62CE-41E0-A1EE-A4E8A0482CB6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 56.4,
+            "enabled": 1,
+            "modelID": "constraint_b14b14cf-a999-42da-9670-e7d382615405",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 40.2
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_5e3f66e5-5b27-48a4-a596-bfa5a23c57f7",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

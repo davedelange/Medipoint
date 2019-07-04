@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "85C8CEFE-6E8E-4E4D-A0B0-7BF8416C66C2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "04EEF863-34B2-45E8-8270-0AA1EA267E0F",
+    "height": 747,
+    "width": 320,
+    "x": 0,
+    "y": 195
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "929E4C10-1D7C-409A-8E67-DABA6562AC5C"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "50EEA8A2-30F4-4492-BE8D-74957705C6D7"
+    },
+    {
+      "class": "shapePath",
+      "id": "5244A00B-972B-4409-8239-978900EC8B6E"
+    },
+    {
+      "class": "group",
+      "id": "47885633-6989-4F96-9DD3-F9323C1D18DD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EFCD3AEB-B8C8-422C-81C2-17527CA9B9F1"
+    },
+    {
+      "class": "text",
+      "id": "BF2224B2-30B2-4FAB-9E34-79E4C56F354A"
+    },
+    {
+      "class": "text",
+      "id": "80856305-7B25-4C5C-97C6-1DD9DC09ED36"
+    },
+    {
+      "class": "group",
+      "id": "27F5E298-CF2B-4435-A694-213E53A36449"
+    },
+    {
+      "class": "group",
+      "id": "B3B9D14F-DE52-4139-BD59-D497E8360F9E"
+    },
+    {
+      "class": "group",
+      "id": "EC2406EF-B091-4CEB-9698-76F968FB8415"
+    },
+    {
+      "class": "text",
+      "id": "71B040AF-DB4A-4273-8E1A-9B42C19C4779"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E307EE1B-AA01-46C9-9674-2752A454C9D7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

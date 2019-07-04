@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F98E832E-E78C-4351-AAAE-B6F7ACBDCC7A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F0A1A91D-AE80-4E52-ACB5-26B53F1DB8DC",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FE22E1B9-F04E-4E29-BB39-14FB9A188F4F",
+    "height": 50,
+    "width": 300,
+    "x": 361,
+    "y": 1486
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Primary/Small",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "64ECE220-A3C3-4899-9690-8E24A7ED57EF",
+      "overrideName": "14630819-F6C4-4153-80A0-CA9AC10F3C4A_stringValue",
+      "value": "Dit is een label"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "06C8A4F0-9EC3-473C-BF47-3366F1097F72",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "23BCC158-DA70-4E7F-8CD0-178028FF734F",
+  "verticalSpacing": 0
+}

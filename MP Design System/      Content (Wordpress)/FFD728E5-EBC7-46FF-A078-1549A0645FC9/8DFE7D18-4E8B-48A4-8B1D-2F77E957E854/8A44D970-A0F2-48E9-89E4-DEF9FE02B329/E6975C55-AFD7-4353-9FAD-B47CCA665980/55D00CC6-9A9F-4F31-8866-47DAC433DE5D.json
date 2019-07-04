@@ -1,0 +1,84 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "55D00CC6-9A9F-4F31-8866-47DAC433DE5D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "0FB63E05-13D8-466F-9B7A-8D369A3DB451",
+    "height": 560.1613732446739,
+    "width": 838.8373018644411,
+    "x": -109.8078997421884,
+    "y": 61.3514409932143
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/49df01f8ceaaad5ab67cbb0bb7f0ad55e021b3bf.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "kristen-sturdivant-553837-unsplash",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "A44CD1D3-5028-4FBD-9FAF-CEE02DA5027B",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 15.57999966859818,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "0476EFF4-B3EF-49AA-B288-9ABF188D8D58",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 560.1614,
+            "enabled": 1,
+            "modelID": "constraint_83026538-60e0-452c-8134-7257f227b362",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 838.8373
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_ac0e482e-1155-4acc-bda2-989f0c3d64b4",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

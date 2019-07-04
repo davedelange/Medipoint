@@ -1,0 +1,74 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "606C79A7-8E9F-471F-AD78-CAF27BE79E2D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "8F1995F8-4676-4E87-9ACB-21E484FBD201",
+    "height": 449.7676190476199,
+    "width": 674.651428571429,
+    "x": -172.8495238095237,
+    "y": -75.36000000000014
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/486455bf17727a6e0c975d0f44372bcd1334699c.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "SF_MO_ROLL_GEMINOCOMFORT_MAN_VROUW_04",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3388DA6E-3F30-415D-BBB1-92AAAD1A4920",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 752,
+            "enabled": 1,
+            "modelID": "constraint_01c2d350-bd7b-4442-aabf-5667c95a57dd",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 1128
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_dea6e586-8076-4dc2-9762-f074f38b719f",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

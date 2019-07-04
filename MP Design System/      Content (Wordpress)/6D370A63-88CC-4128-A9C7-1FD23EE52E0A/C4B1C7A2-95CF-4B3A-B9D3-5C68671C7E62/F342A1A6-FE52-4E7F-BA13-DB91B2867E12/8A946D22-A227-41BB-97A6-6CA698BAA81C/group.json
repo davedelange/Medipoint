@@ -1,0 +1,95 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8A946D22-A227-41BB-97A6-6CA698BAA81C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "01DAD7AE-0CA1-4112-9985-83E75E178B3D",
+    "height": 525,
+    "width": 520,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "A76F6C28-78E1-4018-B8C6-0D7880C634C1"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "6184A07B-6994-4DEE-880B-8F67B4315C54"
+    },
+    {
+      "class": "bitmap",
+      "id": "39B79CE0-5741-4F95-99CD-0467BD85A4D5"
+    },
+    {
+      "class": "bitmap",
+      "id": "A690C7BB-C3B5-40DE-AB1C-5C30B4152319"
+    }
+  ],
+  "name": "Group 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "49EB904D-EBDC-4C16-B7D5-89F46D7755A0",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.000000476837158,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "6C4A4F35-8BC4-44AF-8837-7B563C879CB6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 525.2,
+            "enabled": 1,
+            "modelID": "constraint_48dd3a98-7e53-478d-9f91-1bf295dafa75",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 520
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_3aecfd1b-5b97-4006-baa4-826078edd643",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

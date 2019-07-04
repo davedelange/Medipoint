@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CF9B5637-25D2-4A5F-9B02-A2FD6942ECB7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 532,
+    "width": 288,
+    "x": 666,
+    "y": 2463
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "DDABCC13-A0D5-4AA3-947C-7A15F7D940B0"
+    },
+    {
+      "class": "text",
+      "id": "3FDF4565-0527-4368-8766-EC7D71C3E21D"
+    },
+    {
+      "class": "shapePath",
+      "id": "FF592724-8AD6-413C-ACC0-F8311D542782"
+    },
+    {
+      "class": "group",
+      "id": "457A2B67-A45C-4F39-8DAB-B73A635C84BA"
+    }
+  ],
+  "name": "Tiles / Product / hover",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

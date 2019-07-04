@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "30891E7A-3267-4F90-9403-C35763C3CC2D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "592DBA64-8BA5-4E45-8188-AA85BB73EDB4",
+    "height": 221,
+    "width": 401,
+    "x": 413.5,
+    "y": 56
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "B4F95E85-B227-40AF-BDFC-4362303AA7F8"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C682B3EA-CB10-4013-BEBF-451957AAF3A9"
+    },
+    {
+      "class": "rectangle",
+      "id": "9788414B-5F86-4D2C-8D03-E25D9D8B0BBF"
+    },
+    {
+      "class": "text",
+      "id": "290240EF-568D-43BD-B95D-78F06395C59F"
+    },
+    {
+      "class": "bitmap",
+      "id": "A74A9E85-01E2-4E5C-8060-1D94986ED2C2"
+    },
+    {
+      "class": "text",
+      "id": "EEE4E60F-2B2D-412C-AC19-9FEC01DCDB06"
+    },
+    {
+      "class": "group",
+      "id": "DCE4C1B4-D2EE-4B95-B9E9-82731F2EA5B3"
+    },
+    {
+      "class": "group",
+      "id": "1603BE8D-2956-4CFC-8787-C3734C8B9AF5"
+    },
+    {
+      "class": "group",
+      "id": "6A222998-5CC4-4225-A61B-E41C8BC1966A"
+    },
+    {
+      "class": "text",
+      "id": "F40CACDE-D98E-4FF2-BB18-D8BA25972C0A"
+    },
+    {
+      "class": "shapePath",
+      "id": "542131D3-F29C-4032-9ACB-D67614407EDD"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CCEB7919-597B-483D-9AB2-AA2CBA791163",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

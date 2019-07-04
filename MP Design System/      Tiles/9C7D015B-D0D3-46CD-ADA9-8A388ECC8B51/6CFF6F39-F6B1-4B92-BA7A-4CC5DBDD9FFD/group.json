@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6CFF6F39-F6B1-4B92-BA7A-4CC5DBDD9FFD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 289,
+    "width": 677,
+    "x": 587,
+    "y": 1187
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C80D34CA-DD9A-4B92-B44A-FC70DB3D7FC6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5349C053-5562-49C2-A792-685C66E4EFCF"
+    },
+    {
+      "class": "group",
+      "id": "3F3A8C05-6F00-4DA6-838D-B23E37C6FCB9"
+    },
+    {
+      "class": "text",
+      "id": "79EDCD2B-2282-439B-B2A4-B5E76AA285B3"
+    },
+    {
+      "class": "text",
+      "id": "A0ACF200-D1D7-4CEE-8266-5EE95FAE8319"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B7422732-6691-4801-9EFB-C696821A4D4B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AEA7D0A5-FDC7-497A-BA4C-7650F306C9D3"
+    }
+  ],
+  "name": "Tile",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

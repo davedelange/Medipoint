@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D0A2CCA7-DE29-4BE9-B528-17D193CB2FDA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7367F8D3-60BA-4B9C-A3E8-ED98E276384B",
+    "height": 27,
+    "width": 27,
+    "x": 0,
+    "y": 6
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "5999261E-ADB3-40CA-AFDD-6264E7233B7A"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "997E2CE4-9FAD-4D8E-AA9A-D43C1F2E6DE6"
+    }
+  ],
+  "name": "icon bereikbaarheid/telefoon",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "82652743-34D1-44A7-8E51-2589A988D845",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6.800000190734863,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "ACD5C234-AF9F-424B-B428-834F26D82588",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

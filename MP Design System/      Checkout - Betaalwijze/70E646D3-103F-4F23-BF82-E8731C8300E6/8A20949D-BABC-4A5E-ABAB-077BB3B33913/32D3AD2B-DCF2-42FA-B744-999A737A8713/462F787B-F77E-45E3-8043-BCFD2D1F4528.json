@@ -1,0 +1,84 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "462F787B-F77E-45E3-8043-BCFD2D1F4528",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "A8A04D81-C692-4DFB-B711-9E1374C7E39E",
+    "height": 30,
+    "width": 39,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/f090f645cc00a1c073ef46dd829098dadd750f4c.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "mastercard",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "9D10D94F-4CDD-4CFF-8826-FD3081CC6CDE",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.1884422110552764,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "E913A3B3-3B21-4C67-97E8-F56EC50C913D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 1592,
+            "enabled": 1,
+            "modelID": "constraint_fc0e12e6-4653-4f31-b609-cb397df7deaf",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 2052
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_fc4b8fcc-61bf-4cb5-971d-dc98b48064f9",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

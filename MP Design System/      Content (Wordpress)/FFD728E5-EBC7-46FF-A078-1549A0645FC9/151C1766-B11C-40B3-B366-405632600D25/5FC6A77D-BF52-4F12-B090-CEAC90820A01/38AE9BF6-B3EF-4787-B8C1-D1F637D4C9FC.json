@@ -1,0 +1,155 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "38AE9BF6-B3EF-4787-B8C1-D1F637D4C9FC",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "AA5469AC-15A1-40C3-A9CB-BDACA821BBC3",
+    "height": 76.81686426094676,
+    "width": 74.49320491062329,
+    "x": 14.99028595016352,
+    "y": 13.47754704170256
+  },
+  "hasClippingMask": true,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Path 2",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.82855677449010234, 0.035237391027087679}",
+      "curveMode": 2,
+      "curveTo": "{1.0918461394762726, 0.76988064663430145}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.96020145698318804, 0.40255901883069151}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{-0.037110509758077587, 0.11921463176047034}",
+      "curveMode": 2,
+      "curveTo": "{0.38971789199865986, -0.057135882189061203}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.17630369112029137, 0.031039374785704496}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.0028392215337092117, 0.6894819987895302}",
+      "curveMode": 2,
+      "curveTo": "{0.0030394588241272821, 0.3540338411445646}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.0029393401789182053, 0.5217579199670429}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.89278153280485684, 0.922883604409096}",
+      "curveMode": 2,
+      "curveTo": "{-0.044476411355942685, 1.0603269594847726}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.42415256072446195, 0.9916052819469332}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 330,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "ACC43C36-EA46-4B85-8F7D-EAF1B2C81180",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.155683244976936,
+      "saturation": 1,
+      "type": 0
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 0.800000011920929
+      }
+    ],
+    "do_objectID": "EA5006B9-E1D9-43AD-939F-F2995C3432D7",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 76.81686,
+            "enabled": 1,
+            "modelID": "constraint_51dff0ec-b947-4adb-ad3d-406565decdf1",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 74.4932
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_f6333cbe-f18c-4b62-b646-c3701d2a1519",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

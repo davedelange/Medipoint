@@ -1,0 +1,121 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "78C4018B-C82F-44DB-B2DB-48B23C9B5245",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B0225600-6C71-4049-A233-3C051FD98EAF",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9CDE6185-9540-4802-9C24-D47D2373188D",
+    "height": 24.4607476635514,
+    "width": 27.4669387755102,
+    "x": 933.75,
+    "y": 54.75280373831811
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "F6FBE002-DABB-49B6-8261-2B38DD68882B"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "9F58CEC3-CD87-4B8B-9F29-3458400B261C"
+    },
+    {
+      "class": "shapePath",
+      "id": "D199D8E9-FB4D-46C0-978A-54414B253393"
+    },
+    {
+      "class": "shapePath",
+      "id": "F34C64CA-F232-4863-926A-328CE4B5E92D"
+    },
+    {
+      "class": "shapePath",
+      "id": "6647A794-DEFC-410B-A3E3-13B49BD7D5AC"
+    },
+    {
+      "class": "shapePath",
+      "id": "BDDD8CEB-ACA9-4564-A2BA-702921C181D3"
+    },
+    {
+      "class": "shapePath",
+      "id": "78EDE8D8-16C6-49AF-B009-BEB5706D04E2"
+    },
+    {
+      "class": "shapePath",
+      "id": "32764984-2978-4604-A71D-838FF4FA18B7"
+    },
+    {
+      "class": "shapePath",
+      "id": "426DFF6C-8CB6-4DE9-AB4D-930E8A0F09D4"
+    },
+    {
+      "class": "shapePath",
+      "id": "D82A1E0C-3C08-4171-9002-A8D60038234C"
+    },
+    {
+      "class": "shapePath",
+      "id": "60865609-A84D-4AB2-A7EF-0B2027E48477"
+    }
+  ],
+  "name": "icon-stores",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FEFE6FA7-9AF3-4E39-9F7F-7C376DC34D5C",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3411764705882353,
+          "green": 0.3411764705882353,
+          "red": 0.3411764705882353
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

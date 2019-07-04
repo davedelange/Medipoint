@@ -1,0 +1,146 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7F8FB715-58A2-4882-A29A-35BDF0E704EE",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 10.17509720905582,
+    "width": 10.17480933557548,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Path",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.97377609059525028, 0.83901949343478111}",
+      "curveMode": 4,
+      "curveTo": "{1.0087375030705694, 0.80405894229911257}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0.97377609059525028, 0.83901949343478111}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.81274862357952171, 1}",
+      "curveMode": 1,
+      "curveTo": "{0.81274862357952171, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.81274862357952171, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0.18723290641388363}",
+      "curveMode": 1,
+      "curveTo": "{0, 0.18723290641388363}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0.18723290641388363}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.026060173014740288, 0.16117337365877307}",
+      "curveMode": 1,
+      "curveTo": "{0.026060173014740288, 0.16117337365877307}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.026060173014740288, 0.16117337365877307}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.17779490581096366, 0.0093814057104974966}",
+      "curveMode": 4,
+      "curveTo": "{0.16093945796057213, 0.02629748765541964}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{0.16093945796057213, 0.02629748765541964}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.24824273812421574, 0}",
+      "curveMode": 2,
+      "curveTo": "{0.20048200223085369, 0}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.22437293982405665, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.2877586501248493, 0.026249650571141606}",
+      "curveMode": 4,
+      "curveTo": "{0.27087326548668639, 0.009364681917968451}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0.2877586501248493, 0.026249650571141606}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1.0087375030705694, 0.74723592507115777}",
+      "curveMode": 4,
+      "curveTo": "{0.97379888540619064, 0.71223696947902382}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{0.97379888540619064, 0.71223696947902382}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1725490196078431,
+          "green": 0.09411764705882353,
+          "red": 0.6745098039215687
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "80DB876C-3191-4339-84C4-B9C43BFE42AF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1C2F2BA3-8D98-4F9C-8972-29298898078F",
+    "height": 242,
+    "width": 874,
+    "x": 465,
+    "y": 1429
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "F950933C-103A-4859-8B84-B4D412471AFF"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "EF7B762B-78AF-4299-A868-42DD41C01BFF"
+    },
+    {
+      "class": "group",
+      "id": "75416231-D6A0-4335-B2A4-1335342C4C95"
+    },
+    {
+      "class": "group",
+      "id": "B941DF16-95B7-47A5-BD1B-57A27409F0F4"
+    },
+    {
+      "class": "text",
+      "id": "B4A94F87-7C25-4FF7-B225-0D16A78745EB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8BBEB96B-1C5F-456A-84F6-3635BE3BC6AF"
+    },
+    {
+      "class": "text",
+      "id": "DEB98095-3BD4-4000-8BE9-7881F114D4E3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "09C56A6D-5B93-4AD2-9ED7-7AE1768DBBFF"
+    },
+    {
+      "class": "group",
+      "id": "917913CB-EE69-4716-AF89-C52A3904D56A"
+    },
+    {
+      "class": "group",
+      "id": "D8EC145B-338F-42DC-8BAB-A008576D225D"
+    }
+  ],
+  "name": "Group 50",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A0CA21A8-7BE4-47D4-A8A7-6E414F54D5CA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
